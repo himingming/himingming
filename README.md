@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
  
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  <br>
 <br>
   <p> :dizzy:Tools:dizzy:</p>
