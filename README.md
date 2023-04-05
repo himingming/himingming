@@ -24,8 +24,7 @@
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
- 
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
  <br>
 <br>
   <p> :dizzy:Tools:dizzy:</p>
@@ -36,12 +35,11 @@
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>
 <br>
  <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat&logo=Apache NetBeans IDE&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
+
 
  <br>
   <br>
