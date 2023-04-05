@@ -44,12 +44,7 @@
  <br>
   <br>
  
-  <p> :dizzy:OS:dizzy:</p>
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/> 
 
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-  <br>
-   <br>
  
 <p>:dizzy:SNS:dizzy:</p>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
