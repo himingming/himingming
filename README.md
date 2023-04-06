@@ -48,6 +48,7 @@
  
 <p>:dizzy:SNS:dizzy:</p>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
  <div align="center">
