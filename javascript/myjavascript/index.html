@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+    integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <h3 id="test">안녕하세요</h3>
+    <script>
+        $('#test').attr('src','dsddd.jpg')
+    </script>
+
+
+
+
+    <div class="alert-box" id="alert-box">
+        <p id="pid">Alert box</p>
+        <button id="close">x</button>
+    </div>
+    <button id="boxid">ID</button>
+    <button id="boxpw">PW</button>
+
+    <script>
+
+        document.getElementById('close').addEventListener('click', function () {
+            document.getElementById('alert-box').style.display = 'none';
+        })
+
+        document.getElementById('boxid').addEventListener('click', function () {
+            document.getElementById('pid').innerHTML = "아이디 입력해주세요";
+            document.getElementById('alert-box').style.display = 'block';
+        })
+
+        document.getElementById('boxpw').addEventListener('click', function () {
+            document.getElementById('pid').innerHTML = "비번입력해주세요";
+            document.getElementById('alert-box').style.display = 'block';
+        })
+    </script>
+
+   
+
+</body>
+
+</html>
